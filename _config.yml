@@ -1,0 +1,15 @@
+title: CV | Nguyen Quoc Dat's CV
+description:  This is my lovely CV <3
+url: https://datpc166.github.io/my_cv
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
