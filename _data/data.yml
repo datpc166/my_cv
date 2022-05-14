@@ -1,15 +1,15 @@
-name: John Doe
+name: Nguyen Quoc Dat
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
   email: datnq.ptit@gmail.com
   github: datpc166
   linkedin: dylan1606
-  phone: 
+  phone: 0965512901
   gitlab: 
-  twitter: 
+  twitter: datpc_
 
 languages:
   - idiom: English
@@ -17,13 +17,13 @@ languages:
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: High School Graduation
+    time: 2017-2020
+    university: Thuong Tin high school
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Bachelor of Technology
+    time: 2020-2025
+    university: PTIT - Posts and Telecommunications Institute of Technology
 
 skills:
   - category: Backend
